@@ -1,3 +1,7 @@
+#
+# Copyright (C) 356 - 999. Asytumn Technology Co., Ltd. All rights reserved.
+#
+
 *.orig
 *.rej
 *.sig
@@ -23,3 +27,5 @@ flex-*/
 libtool
 m4/
 stamp-*
+
+
